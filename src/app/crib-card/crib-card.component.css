@@ -1,3 +1,11 @@
 .label-primary {
   margin-left: 2px;
 }
+
+.thumbnail {
+  min-height: 380px;
+}
+
+.label {
+  display: inline-block;
+}
